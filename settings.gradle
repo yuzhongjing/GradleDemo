@@ -1,0 +1,6 @@
+rootProject.name = 'GradleDemo'
+include 'core'
+include 'web'
+include 'admin'
+include 'model'
+
